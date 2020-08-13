@@ -17,9 +17,10 @@ algorithms with visualizations**.
     libraries can be used as a black box from pygame.
 
  - Use a build system, proper open-source hygienes such as good variable naming,
+     adding proper comments, right amount of spaces and indents,
      informative but small commits, code reviews and use of issue tracker. Have
      a design documenation ready before the implementation and get the design
      reviewed by the collaborators.
 
-- If you are interesting in contributing,
+- If you are interested in contributing,
     mail to `official.mr.convict [at] gmail [dot] com`
